@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GAN-Sparse-Code.iml" filepath="$PROJECT_DIR$/.idea/GAN-Sparse-Code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../Winter/Deep Learning/deep_learning/.idea/deep_learning.iml" filepath="$PROJECT_DIR$/../../../Winter/Deep Learning/deep_learning/.idea/deep_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../senior-thesis/LCA_with_color/.idea/LCA_with_color.iml" filepath="$PROJECT_DIR$/../../../../senior-thesis/LCA_with_color/.idea/LCA_with_color.iml" />
     </modules>
   </component>
 </project>
