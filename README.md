@@ -16,7 +16,7 @@ This repository contains:
 
 ## Install
 
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+This project uses [pip](https://pypi.org/). Go check them out if you don't have them locally installed.
 
 ```sh
 $ pip3 install numpy  
